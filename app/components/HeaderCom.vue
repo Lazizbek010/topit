@@ -22,7 +22,7 @@
         <a href="">Условия доставки</a>
       </div>
       <div>
-        <p>+998 (99) <span class="font-bold">123 45 67</span></p>
+        <p>+998 (99) <span class="font-bold">97 123 11 00</span></p>
       </div>
     </div>
     <div class="w-full h-[1px] bg-gray-100"></div>
